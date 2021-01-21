@@ -12,8 +12,8 @@ A Python Project named as Tour Guide. The main idea of this Project is to create
 * Can tell you at what distance every Venue is located from you or your selected Location.
 * Venues are Plotted on Folium Map as Circle markers
 * The Colour of Circle marker Denotes the Rating of the Venues 
-  > Mark Red for Low 
-  > Mark Green for Good 
+  > Mark Red for Low  
+  > Mark Blue for Good 
   > Dark Green for Very Good 
   ### Motive 
  Key motivation behind developing this Project is to facilitate the folks to find the Venues of Interests around. Explore your Surrounding through a different angle.
